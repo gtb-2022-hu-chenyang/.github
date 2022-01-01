@@ -1,8 +1,8 @@
-# Welcome to Panda's Org
+# Welcome to Huchenyang's Org
 
 Hi, this is me, Huchenyang.
 
-![](.\assets\me.jpg)
+![](assets\me.jpg)
 
 My name is huchenyang and I  come from Yichang, Hubei province.
 
